@@ -22,4 +22,4 @@
 
 ## 📈 Github Stats
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats  -->
-[![Airam's GitHub stats](https://github-readme-stats.vercel.app/api?username=airamjean&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Airam's GitHub stats](https://github-readme-stats.vercel.app/api?username=airamjean&hide=contribs,prs&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
