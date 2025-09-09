@@ -1,6 +1,6 @@
 ## Hi, I'm Airam 👋
 
-👩‍💻 A sophomore Computer Engineering student at the Polytechnic University or the Philippines <br/>
+👩‍💻 A junior Computer Engineering student at the Polytechnic University or the Philippines <br/>
 📊 Aspiring to become a Data Analyst <br/>
 💡 Knowledgable in Python, MySQL, Power Bi, Excel <br/>
 💭 Currently leaning more about data analytics <br/>
